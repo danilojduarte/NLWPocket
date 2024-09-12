@@ -45,3 +45,6 @@
 
 # Estrutura de Repetição
 - {x} While
+
+# Condicionais
+- {x} switch

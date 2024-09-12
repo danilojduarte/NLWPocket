@@ -41,3 +41,7 @@
 - {x} Criar
 - {x} Execultar
 - {x} arrow function / named function
+
+
+# Estrutura de Repetição
+- {x} While

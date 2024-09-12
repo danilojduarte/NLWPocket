@@ -48,3 +48,12 @@
 
 # Condicionais
 - {x} switch
+
+# Modulos em Node.js
+- {x} Importando de modulos (require, CommonJs)
+- {x} Biblioteca ´inquirer´ para criar  prompts interativos
+
+# Programação assíncrona e Preomises;
+- {x} Uso de funções assíncronas (async/await)
+- {x} 
+
